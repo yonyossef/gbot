@@ -1,7 +1,12 @@
 .env
+.railway/
+railway.info.txt
+data/
+.pytest_cache/
 __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
 venv/
 *.log
+.server.pid
